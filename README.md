@@ -10,6 +10,7 @@ This project showcases the design of an Android application with four different 
 
 ## Link to Figma
 [Open Figma project](https://www.figma.com/design/Y7O2gTIfQe3yKy3uBPPlq2/eWedding?t=h3vxsvtyPP22EuOm-1)
+
 [Open App on GitHub](https://github.com/ratkic/eWedding.git)
 
 ---
