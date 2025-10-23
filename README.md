@@ -9,7 +9,7 @@ This project showcases the design of an Android application with four different 
 4. **Budget** – overview and management of expenses
 
 ## Link to Figma
-[Open Figma project](https://www.figma.com/design/Y7O2gTIfQe3yKy3uBPPlq2/eWedding?t=h3vxsvtyPP22EuOm-1)
+[Open Figma project](https://www.figma.com/design/Y7O2gTIfQe3yKy3uBPPlq2/eWedding?t=h3vxsvtyPP22EuOm-1)  
 
 [Open App on GitHub](https://github.com/ratkic/eWedding.git)
 
@@ -20,6 +20,7 @@ This project showcases the design of an Android application with four different 
 This project presents the design of a modern IPTV desktop application.  
 Since most existing IPTV designs look outdated, I wanted to create something fresh and contemporary — inspired by platforms like **Netflix** and **Prime Video**.
 
+## 📱 Screens
 The project includes three main screens:
 
 1. **Home Page** – displays trending content, the most watched shows and films, and live TV channels from different countries.  
